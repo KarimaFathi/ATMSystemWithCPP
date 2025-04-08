@@ -1,0 +1,3 @@
+﻿  ATMSystem.cpp
+D:\ATMSystemWithCPP\ATMSystem\ATMSystem.cpp(73,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ATMSystem.vcxproj -> D:\ATMSystemWithCPP\ATMSystem\x64\Debug\ATMSystem.exe
