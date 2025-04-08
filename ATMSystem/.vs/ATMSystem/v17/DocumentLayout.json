@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -22,9 +22,9 @@
               "Title": "ATMSystem.cpp",
               "DocumentMoniker": "D:\\ATMSystemWithCPP\\ATMSystem\\ATMSystem.cpp",
               "RelativeDocumentMoniker": "ATMSystem.cpp",
-              "ToolTip": "D:\\ATMSystemWithCPP\\ATMSystem\\ATMSystem.cpp",
-              "RelativeToolTip": "ATMSystem.cpp",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\ATMSystemWithCPP\\ATMSystem\\ATMSystem.cpp*",
+              "RelativeToolTip": "ATMSystem.cpp*",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAqwFwBAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-08T10:10:43.412Z",
               "EditorCaption": ""
